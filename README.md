@@ -1,4 +1,4 @@
-this is a project made with my colleague : 
+this is a project made with my colleague 
 
 we didn't trained these AI's by ourselves but we borrowed them, and we will list the sources of the AI's:
 
