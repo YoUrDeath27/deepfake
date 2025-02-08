@@ -2,13 +2,6 @@ this is a project made with my colleague
 
 we didn't trained these AI's by ourselves but we borrowed them, and we will list the sources of the AI's:
 
-{
-Video Face Manipulation Detection Through Ensemble of CNNs
-Image and Sound Processing Lab - Politecnico di Milano
+for images and videos with no audio we used : https://github.com/polimi-ispl/icpr2020dfdc?tab=readme-ov-file
 
-Nicolò Bonettini
-Edoardo Daniele Cannas
-Sara Mandelli
-Luca Bondi
-Paolo Bestagini
-}
+for audio we used : https://github.com/Guri10/Deepfake-Audio-Detection-with-XAI/tree/main
