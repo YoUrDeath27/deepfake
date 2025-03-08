@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    
+    <title>Deepfake Detection</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+           
+            background-color: #121212; 
+            color: #ffffff; 
+        }
+        h1 {
+            margin-bottom: 30px;
+        }
+        button {
+            font-family: monospace;
+            padding: 10px 20px;
+            margin: 10px;
+            font-size: 16px;
+            cursor: pointer;
+            background-color: #1e1e1e;
+            color: #ffffff;
+            border: 1px solid #ffffff; 
+            
+            
+        }
+        button:hover {
+            background-color: #ffffff;
+            color: #121212;
+        }
+    </style>
+</head>
+<body>
+    <h1>DEEPFAKE DETECTION</h1>
+    <button onclick="window.location.href='text.html'">Insert Text</button>
+    <button onclick="window.location.href='audio.html'">Upload Audio</button>
+    <button onclick="window.location.href='video.html'">Upload Video</button>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <h5>this is a beta and will not be released</h5>
+</body>
+</html>
