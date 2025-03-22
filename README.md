@@ -1,6 +1,6 @@
 this is a project made with my colleague 
 
-these work only for deepfake, faceswap, etc. #but not for generative ai#
+these work only for deepfake, faceswap, etc. but not for generative ai
 
 we didn't trained these AI's by ourselves but we borrowed them, and we will list the sources of the AI's:
 
