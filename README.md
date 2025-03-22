@@ -1,5 +1,7 @@
 this is a project made with my colleague 
 
+these work only for deepfake, faceswap, etc. ~but not for generative ai~
+
 we didn't trained these AI's by ourselves but we borrowed them, and we will list the sources of the AI's:
 
 for images and videos with no audio we used : https://github.com/polimi-ispl/icpr2020dfdc?tab=readme-ov-file
