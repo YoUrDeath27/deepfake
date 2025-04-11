@@ -1,4 +1,4 @@
-Acesta este un proiect creat pentru concursul ONCS etapa județeană
+Acesta este un proiect creat pentru concursul ONCS(Olimpiada Națională de Creativitate Științifică) etapa județeană
 
 proiectul nostru momentan nu poate detecta fake news generate de la zero 
 
