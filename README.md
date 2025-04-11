@@ -1,10 +1,9 @@
-this is a project made with my colleague 
+Acesta este un proiect creat pentru concursul ONCS etapa județeană
 
-these work only for deepfake, faceswap, etc. but not for generative ai
+proiectul nostru momentan nu poate detecta fake news generate de la zero 
 
-we didn't trained these AI's by ourselves but we borrowed them, and we will list the sources of the AI's:
+Noi am antrenat AI-urile pentru text si audio dar pentru cel de imagini am folosti un AI pretrained antrenat de :
 
-for images and videos with no audio we used : https://github.com/polimi-ispl/icpr2020dfdc?tab=readme-ov-file
+N. Bonettini, E. D. Cannas, S. Mandelli, L. Bondi, P. Bestagini and S. Tubaro, "Video Face Manipulation Detection Through Ensemble of CNNs," 2020 25th International Conference on Pattern Recognition (ICPR), 2021, pp. 5012-5019, doi: 10.1109/ICPR48806.2021.9412711.
 
-for audio we used : [https://github.com/Guri10/Deepfake-Audio-Detection-with-XAI/tree/main](https://github.com/Jerald-Golden/Audio-Deepfake-Detection/tree/main)
-
+Repositori-ul lor se poate gasi [aici](https://github.com/polimi-ispl/icpr2020dfdc?tab=readme-ov-file)
